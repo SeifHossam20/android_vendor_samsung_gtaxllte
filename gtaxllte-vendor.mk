@@ -14,10 +14,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gtaxllte/proprietary/vendor/etc/plmn_se13.bin:$(TARGET_COPY_OUT_VENDOR)/etc/plmn_se13.bin
 
 PRODUCT_PACKAGES += \
+    libril \
     gps.default \
     libengmode_client \
     libfloatingfeature \
-    libril \
     libsec-ril \
     libsecnativefeature \
     libsemnativecarrierfeature \
