@@ -231,9 +231,9 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_binary {
-	name: "cbd",
+	name: "cbd_note",
 	owner: "samsung",
-	srcs: ["proprietary/vendor/bin/cbd"],
+	srcs: ["proprietary/vendor/bin/cbd_note"],
 	check_elf_files: false,
 	strip: {
 		none: true,
@@ -243,9 +243,9 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
-	name: "cbd_note",
+	name: "cbd",
 	owner: "samsung",
-	srcs: ["proprietary/vendor/bin/cbd_note"],
+	srcs: ["proprietary/vendor/bin/cbd"],
 	check_elf_files: false,
 	strip: {
 		none: true,

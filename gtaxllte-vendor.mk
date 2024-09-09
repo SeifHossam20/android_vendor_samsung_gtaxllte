@@ -27,7 +27,7 @@ PRODUCT_PACKAGES += \
     vendor.samsung.hardware.radio.channel@2.0 \
     vendor.samsung.hardware.radio@2.0 \
     vendor.samsung.hardware.radio@2.1 \
-    cbd \
     cbd_note \
+    cbd \
     gpsd \
     rild
