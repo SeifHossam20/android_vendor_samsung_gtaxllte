@@ -25,7 +25,7 @@ PRODUCT_PACKAGES += \
     libwrappergps \
     vendor.samsung.hardware.radio.bridge@2.0 \
     vendor.samsung.hardware.radio.channel@2.0 \
-    vendor.samsung.hardware.radio@2.0 \
+    vendor.samsung.hardware.radio \
     vendor.samsung.hardware.radio@2.1 \
     cbd_note \
     cbd \
